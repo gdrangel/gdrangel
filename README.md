@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi, I'm Gabriel Rangel!
+I'm a student studying to become a front-end web developer.
 
 <!--
 **gdrangel/gdrangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
