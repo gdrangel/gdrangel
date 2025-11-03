@@ -1,7 +1,9 @@
-![My Banner](https://raw.githubusercontent.com/gdrangel/gdrangel/refs/heads/main/Horizontal%20RGB.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gdrangel/gdrangel/refs/heads/main/Horizontal%20RGB.png" alt="Profile Banner">
+</p>
 
 ## About Me
-As a front-end web developer with two years of experiennce, I aim to specialize in supporting local businesses and small companies by quickly identifying and resolving front-end issues.
+As a front-end web developer with two years of experience, I aim to specialize in supporting local businesses and small companies by quickly identifying and resolving front-end issues.
 
 ## My Skills
 Coding Languages: HTML, CSS, JavaScript<br>
