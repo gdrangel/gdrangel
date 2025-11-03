@@ -1,7 +1,7 @@
 # Hi, I'm Gabriel Rangel!
 
 ## About Me
-I'm a student studying to become a front-end web developer.
+As a front-end web developer with two years of experiennce, I aim to specialize in supporting local businesses and small companies by quickly identifying and resolving front-end issues.
 
 ## My Skills
 Coding Languages: HTML, CSS, JavaScript<br>
