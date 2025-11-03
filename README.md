@@ -1,4 +1,4 @@
-# Hi, I'm Gabriel Rangel!
+![My Banner](https://raw.githubusercontent.com/gdrangel/gdrangel/refs/heads/main/Stacked%20RGB.png)
 
 ## About Me
 As a front-end web developer with two years of experiennce, I aim to specialize in supporting local businesses and small companies by quickly identifying and resolving front-end issues.
